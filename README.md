@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickywizard
-- 👀 I’m interested in Mobile App Development and Game 
+- 👀 I’m interested in Mobile App, Web, and Game Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me dm instagram @rickywjay
