@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @rickywizard
+### 👋 Hi, I’m @rickywizard
 - 👀 I’m interested in Mobile App, Web, and Game Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on none
@@ -8,14 +8,17 @@
 rickywizard/rickywizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<hr />
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rickywijay#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rickywijay#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/rickywjay#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/rickywjay#gh-dark-mode-only)
+<div>
+  <a href="https://linkedin.com/in/rickywijay" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/rickywijay" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://rickywizard.github.io/rickyportfolio" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/flat-pack-1/64/Web_Browser-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
+</div>
+
+<hr />
 
 ### Languages and Tools:
 
