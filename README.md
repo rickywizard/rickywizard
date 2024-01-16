@@ -7,7 +7,7 @@
 ### 👨‍💻 About me:
 - 👀 I’m interested in Mobile App, Web, and Game Development
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on none
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me dm instagram @rickywjay
 
 <!---
