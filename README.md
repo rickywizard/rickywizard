@@ -1,4 +1,10 @@
-### 👋 Hi, I’m @rickywizard
+<div id="header" align="center">
+  <h1>👋 Hi, I’m @rickywizard</h1>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
+</div>
+<hr />
+
+### 👨‍💻 About me:
 - 👀 I’m interested in Mobile App, Web, and Game Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on none
@@ -58,3 +64,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 </div>
+<hr />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickywizard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
