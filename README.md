@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hi, I’m @rickywizard</h1>
-  <video autoplay loop muted playsinline width="200">
-    <source src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
 </div>
 <hr />
 
