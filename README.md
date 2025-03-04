@@ -5,9 +5,9 @@
 <hr />
 
 ### 👨‍💻 About me:
-- 👀 I’m interested in Mobile App, Web, and Game Development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m not looking to collaborate
+- 👀 I’m interested in Web, Mobile App and Game Development
+<!--- 🌱 I’m currently learning Computer Science
+- 💞️ I’m not looking to collaborate-->
 - 📫 How to reach me 👉 DM instagram @rickywjay or Email rickywijayatatando@gmail.com
 
 <!---
