@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hi, I’m @rickywizard</h1>
-  <img src="https://media1.tenor.com/m/w-TTxYu8g-MAAAAd/solo-leveling-sololeveling.gif">
+  <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1203420/18f56cbc585b0979164534234276f91f47479dbb.png">
 <hr />
 
 ### 👨‍💻 About me:
