@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1>👋 Hi, I’m @rickywizard</h1>
-  <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1203420/18f56cbc585b0979164534234276f91f47479dbb.png">
+<!--   <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1203420/18f56cbc585b0979164534234276f91f47479dbb.png"> -->
+  <img align="left" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/f8b962b75d7e093ba186dd32a7e7682f3c814ba0.png">
+  <img align="right" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/712a028f04e0b79b58ef2a7d376c9942b39fc145.png">
 <hr />
 
 ### 👨‍💻 About me:
