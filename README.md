@@ -4,12 +4,16 @@
   <img align="left" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/f8b962b75d7e093ba186dd32a7e7682f3c814ba0.png">
   <img align="right" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/712a028f04e0b79b58ef2a7d376c9942b39fc145.png">
 <hr />
+</div>
 
-### 👨‍💻 About me:
-- 👀 I’m interested in Web, Mobile App and Game Development
+<pre>
+                                    👨‍💻 About me:
+  
+              👀 I’m interested in Web, Mobile App and Game Development
 <!--- 🌱 I’m currently learning Computer Science
 - 💞️ I’m not looking to collaborate-->
-- 📫 How to reach me 👉 DM instagram @rickywjay or Email rickywijayatatando@gmail.com
+📫 How to reach me 👉 DM instagram @rickywjay or Email rickywijayatatando@gmail.com
+</pre>
 
 <!---
 rickywizard/rickywizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
