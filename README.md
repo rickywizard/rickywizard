@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔗 Connect with me:
 
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/rickywijay" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/rickywijay" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://rickywizard.github.io/rickyportfolio" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/flat-pack-1/64/Web_Browser-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
