@@ -1,7 +1,6 @@
+<img align="left" height="60" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1203420/eec8feefd091e788a158fa26d0557b3d9cd749f2.png">
 <div id="header" align="center">
-  <h1>👋 Hi, I’m @rickywizard</h1>
-<!--   <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1203420/18f56cbc585b0979164534234276f91f47479dbb.png"> -->
-<!--   <img align="right" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/f8b962b75d7e093ba186dd32a7e7682f3c814ba0.png"> -->
+  <h1>Hi, I’m @rickywizard 👋</h1>
 </div>
 <hr />
 <img align="right" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/712a028f04e0b79b58ef2a7d376c9942b39fc145.png">
@@ -75,4 +74,6 @@ You can click the Preview link to take a look at your changes.
 <hr />
 
 ### 📊 Stats
+<img align="left" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1299690/301a9db50b6b26348974cc87e04748803b39c050.png">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickywizard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
