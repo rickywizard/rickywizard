@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hi, I’m @rickywizard</h1>
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
+  <div class="tenor-gif-embed" data-postid="14115639977492382691" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/solo-leveling-sololeveling-sung-jin-woo-aura-shut-your-mouth-gif-14115639977492382691">Solo Leveling Sololeveling GIF</a>from <a href="https://tenor.com/search/solo+leveling-gifs">Solo Leveling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <hr />
 
