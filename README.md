@@ -76,4 +76,4 @@ You can click the Preview link to take a look at your changes.
 ### 📊 Stats
 <img align="left" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1299690/301a9db50b6b26348974cc87e04748803b39c050.png">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickywizard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickywizard&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)
