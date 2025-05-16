@@ -8,7 +8,7 @@
 ### 👨‍💻 About me:
 <pre>
 👀 I’m interested in Web, Mobile App and Game Development
-🌱 I’m also passionate in Data and AI 
+🌱 I also passionate in Data and AI 
 <!-- - 💞️ I’m not looking to collaborate -->
 📫 How to reach me
    👉 DM instagram @rickywjay
