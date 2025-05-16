@@ -8,8 +8,8 @@
 ### 👨‍💻 About me:
 <pre>
 👀 I’m interested in Web, Mobile App and Game Development
-<!--- 🌱 I’m currently learning Computer Science
-- 💞️ I’m not looking to collaborate-->
+🌱 I’m also passionate in Data and AI 
+<!-- - 💞️ I’m not looking to collaborate -->
 📫 How to reach me
    👉 DM instagram @rickywjay
    👉 Email rickywijayatatando@gmail.com
