@@ -5,7 +5,7 @@
 <hr />
 <img align="right" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/712a028f04e0b79b58ef2a7d376c9942b39fc145.png">
 
-### 👨‍💻 About me:
+### 👨‍💻 About me
 <pre>
 👀 I’m interested in Web, Mobile App and Game Development
 🌱 I also passionate in Data and AI 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr />
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
 
 <div align="center">
   <a href="https://linkedin.com/in/rickywijay" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="" height="40" width="40" /></a>&nbsp;&nbsp;
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <hr />
 <img align="right" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1390700/f8b962b75d7e093ba186dd32a7e7682f3c814ba0.png">
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
